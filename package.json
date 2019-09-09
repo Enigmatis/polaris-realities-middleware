@@ -1,0 +1,27 @@
+{
+  "name": "polaris-realities-middleware",
+  "version": "1.0.0",
+  "description": " handling realities in polaris ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enigmatis/polaris-realities-middleware.git"
+  },
+  "author": "enigmatis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enigmatis/polaris-realities-middleware/issues"
+  },
+  "homepage": "https://github.com/Enigmatis/polaris-realities-middleware#readme",
+  "dependencies": {
+    "graphql": "^14.5.4",
+    "graphql-middleware": "^4.0.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "typescript": "^3.6.2"
+  }
+}
