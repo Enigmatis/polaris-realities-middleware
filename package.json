@@ -1,5 +1,5 @@
 {
-  "name": "polaris-realities-middleware",
+  "name": "@enigmatis/polaris-realities-middleware",
   "version": "1.0.0",
   "description": " handling realities in polaris ",
   "main": "index.ts",
