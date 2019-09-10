@@ -4,12 +4,17 @@
   "description": " handling realities in polaris ",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Enigmatis/polaris-realities-middleware.git"
   },
+  "keywords": [
+    "polaris",
+    "graphql"
+  ],
   "author": "enigmatis",
   "license": "ISC",
   "bugs": {
