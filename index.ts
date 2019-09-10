@@ -1,1 +1,1 @@
-export {realitiesMiddleware, initContextForRealities} from "./realities/realities-middleware";
+export {realitiesMiddleware} from "./realities/realities-middleware";
